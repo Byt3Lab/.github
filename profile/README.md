@@ -1,14 +1,8 @@
-# Open Source chez Byt3Lab
-
-<p align="left">
-  <img src="https://via.placeholder.com/1000x200/202124/FFFFFF?text=Byt3Lab+Engineering" alt="Byt3Lab Banner" width="100%" />
-</p>
-
 ### Construire l'infrastructure numérique de demain.
 
 Chez **Byt3Lab**, nous croyons que le logiciel a le pouvoir de transformer les entreprises et l'éducation. Basés au **Cameroun**, nous concevons des solutions scalables, modulaires et open source pour résoudre des problèmes complexes.
 
-[Site Web](https://votresite.com) • [Blog Technique](https://votreblog.com) • [Carrières](https://linkedin.com/company/byt3lab)
+[Site Web](https://byt3lab.com)
 
 ---
 
